@@ -1,10 +1,11 @@
 package main
 
 import "fmt"
-
+import "os"
 func main(){
 
-  fmt.Fprint("my name is ","wenweiping go \n");
+  fmt.Fprint(os.Stdout,"my name is ","wenweiping go \n");
+
   fmt.Println("886")
 }
 
