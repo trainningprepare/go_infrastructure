@@ -6,6 +6,7 @@ func main(){
 
   fmt.Fprint(os.Stdout,"my name is ","wenweiping go \n");
 
+  fmt.Fprint(os.Stdout,"I am  arch master: ","wenweiping arch-dalsv\n")
   fmt.Println("886")
 }
 
