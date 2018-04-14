@@ -7,6 +7,7 @@ func main(){
   fmt.Fprint(os.Stdout,"my name is ","wenweiping go \n");
 
   fmt.Fprint(os.Stdout,"I am  arch master: ","wenweiping arch-dalsv\n")
+  fmt.Println("this is go_infrastructure_20180414 version")
   fmt.Println("886")
 }
 
